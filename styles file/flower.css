@@ -1,0 +1,312 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.body {
+
+    font-family: 'Lato', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+/* flower-header styling */
+
+.flower-header {
+
+    background: rgba(229, 84, 115, 0.10);
+    display: flex;
+    width: 100%;
+    flex-direction: row;
+
+}
+
+.flower-banner {
+
+    align-items: center;
+    margin: 50px 50px 70px;
+
+}
+
+.btn-first {
+
+    background: #E55473;
+    border-radius: 5px;
+    border: 0;
+    width: 110px;
+    height: 37PX;
+    display: flex;
+    color: white;
+    font-size: 20px;
+    padding: 5px;
+    margin-top: 40px;
+    font-weight: 400;
+
+
+}
+
+.invite {
+
+    margin-bottom: 40px;
+
+}
+
+.pera-1 {
+
+    margin-top: 40px;
+
+}
+
+.header-pic {
+
+    margin-top: 30px;
+    width: 400px;
+    height: 380px;
+
+}
+
+/* section first-feature styling */
+
+.heading-3 {
+
+    text-align: center;
+    margin-top: 90px;
+
+}
+
+.pera-2 {
+
+
+    text-align: center;
+    margin: 0px 130px;
+    margin-top: 40px;
+
+}
+
+
+.container-1 {
+
+    margin-left: 50px;
+    align-items: center;
+    display: flex;
+    padding: 30px;
+    gap: 8px;
+
+}
+
+.pic-1 {
+
+    border-radius: 300px 300px 0px 0px;
+    padding: 10px;
+    background: rgba(5, 151, 160, 0.15);
+    height: 200px;
+    width: 100%;
+
+}
+
+.pic-2 {
+
+    border-radius: 300px 300px 0px 0px;
+    padding: 10px;
+    background: rgba(167, 33, 98, 0.15);
+    height: 200px;
+    width: 100%;
+
+}
+
+.pic-3 {
+
+    border-radius: 300px 300px 0px 0px;
+    padding: 10px;
+    background: rgba(71, 125, 17, 0.15);
+    height: 200px;
+    width: 100%;
+
+}
+
+div.container {
+
+    text-align: center;
+    padding: 10px 20px;
+
+}
+
+
+.main {
+
+    max-width: 1140px;
+    margin: 0 auto;
+
+
+}
+
+main section {
+
+    margin-top: 130px;
+
+}
+
+
+/* section second-feature styling */
+
+.second-feature {
+
+    display: flex;
+    height: 320px;
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);
+
+}
+
+.pic-4 {
+
+    margin-top: 60px;
+    margin-left: 80px;
+    display: flex;
+    padding: 10px;
+    height: 150px;
+    width: 150px;
+
+}
+
+/* section third-feature styling */
+
+
+.container-2 {
+
+    align-items: center;
+    margin-right: 50px;
+    display: flex;
+    padding: 30px;
+    gap: 8px;
+
+}
+
+.rectangle-1 {
+
+    height: 240px;
+    width: 240px;
+    align-items: center;
+
+}
+
+/* section four-feature styling */
+
+.container-3 {
+
+    height: 300px;
+    padding: 8px;
+
+
+}
+
+
+.heading-4 {
+
+    text-align: center;
+    margin-top: 50px;
+
+}
+
+
+.email {
+
+    width: 400px;
+    height: 40px;
+    display: inline;
+    margin-top: 30px;
+    margin-left: 220px;
+
+
+}
+
+.btn-1-first {
+
+    height: 40px;
+    background: #E55473;
+    border: 0px;
+    border-radius: 5px;
+
+}
+
+
+.four-feature {
+
+    background-image: url('../images file/Flower Asset/Rectangle 9.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+
+/* section extra-1-feature styling */
+
+.container-5 {
+
+    align-items: center;
+    background: rgba(229, 84, 115, 0.10);
+
+}
+
+.heading-5 {
+
+    padding: 30px;
+    text-align: center;
+}
+
+
+.circle-picture {
+
+    height: 100px;
+    width: 150px;
+    margin-top: 50px;
+    margin-bottom: 30px;
+    border-radius: 50%;
+    padding: 20px;
+    display: inline;
+    background: rgba(71, 125, 17, 0.15);
+
+}
+
+
+.favourite-flower11 {
+
+    margin-left: 200px;
+
+}
+
+
+/* section five-feature styling */
+
+
+.five-feature {
+
+
+    background: #111010;
+    color: rgba(255, 255, 255, 0.90);
+
+}
+
+.heading-6 {
+
+    padding: 20px;
+    margin-top: 70px;
+    text-align: center;
+
+}
+
+.span-style {
+
+    color: #E55473;
+
+}
+
+
+.pera-4 {
+
+    font-size: 12px;
+    text-align: center;
+    margin-top: 30px;
+
+}
