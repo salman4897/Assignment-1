@@ -1,15 +1,8 @@
 * {
     margin: 0px;
-    padding: 0px;
+    padding: 0px;font-family: 'Roboto', sans-serif;
 }
 
-.body {
-
-    font-family: 'Lato', sans-serif;
-    font-family: 'Open Sans', sans-serif;
-    font-family: 'Roboto', sans-serif;
-
-}
 
 /* flower-header styling */
 
@@ -23,9 +16,14 @@
 }
 
 .flower-banner {
-
+    width: 50%;
+  display: flex;
+  flex-direction: column;
     align-items: center;
-    margin: 50px 50px 70px;
+    justify-content: center;
+  
+    text-align: center;
+  
 
 }
 
@@ -40,7 +38,7 @@
     color: white;
     font-size: 20px;
     padding: 5px;
-    margin-top: 40px;
+    margin-top: 20px;
     font-weight: 400;
 
 
@@ -48,15 +46,11 @@
 
 .invite {
 
-    margin-bottom: 40px;
+    margin-bottom: 20px;
 
 }
 
-.pera-1 {
 
-    margin-top: 40px;
-
-}
 
 .header-pic {
 
@@ -66,45 +60,63 @@
 
 }
 
-/* section first-feature styling */
+/* first-feature styling */
 
-.heading-3 {
-
+.feature-section{
+    height: 100vh;
+    width: 1200px;
+    
     text-align: center;
-    margin-top: 90px;
-
-}
-
-.pera-2 {
-
-
+    margin: auto;
+    
+    }.feature-head{
+        font-size: 30px;
+        font-family: 'Roboto', sans-serif;
+    
+    }
+    .feature-container{
+        max-width: 1000px;
+       
+        display: flex;
+        gap: 20px;
+        align-items: center;
+        margin: auto;
+        margin-top: 100px;
+        
+    }
+    .feature-description{
+    font-size: 25px;
+        font-family: 'Roboto', sans-serif;
+    
+    }
+    .feature{
+        height: 330px;
+        width: 300px;
+        border-radius:50% 50% 0px 0px ;
+        background: wheat;margin-right: 30px;
+    }
+    
+    .image img{
+      width: 250px;
+      height: 250px;
+     padding-top:80px;
+     padding-left:20px ;
+    }
+    
+    .anchor {
+    margin-top: 10px;
+    font-size: 25px;
     text-align: center;
-    margin: 0px 130px;
-    margin-top: 40px;
-
-}
-
-
-.container-1 {
-
-    margin-left: 50px;
-    align-items: center;
-    display: flex;
-    padding: 30px;
-    gap: 8px;
-
-}
-
-.pic-1 {
-
-    border-radius: 300px 300px 0px 0px;
-    padding: 10px;
-    background: rgba(5, 151, 160, 0.15);
-    height: 200px;
-    width: 100%;
-
-}
-
+    font-family: 'Roboto', sans-serif;
+    
+    }
+    .anchor a{
+        color:#272727 ;
+    
+       
+    }
+    
+   /* third  */
 .pic-2 {
 
     border-radius: 300px 300px 0px 0px;
