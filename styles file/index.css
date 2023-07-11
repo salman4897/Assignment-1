@@ -252,36 +252,37 @@ div.container {
 /* section extra-1-feature styling */
 
 .container-5 {
-
+ height: 450px;
+    width: 800px;
+    margin: auto;
+      display: flex;
+      flex-direction: column;
     align-items: center;
     background: rgba(229, 84, 115, 0.10);
 
 }
 
-.heading-5 {
-
-    padding: 30px;
-    text-align: center;
+.div{
+    height: 220px;
+    width: 220px;
+    border-radius: 10px;
 }
-
 
 .circle-picture {
 
-    height: 100px;
-    width: 150px;
     margin-top: 50px;
     margin-bottom: 30px;
-    border-radius: 50%;
+    border-radius: 10px;
     padding: 20px;
     display: inline;
-    background: rgba(71, 125, 17, 0.15);
+    
 
 }
 
 
 .favourite-flower11 {
 
-    margin-left: 200px;
+    display: flex;
 
 }
 
@@ -290,8 +291,12 @@ div.container {
 
 
 .five-feature {
-
-
+    display: flex;
+    flex-direction:column ;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+     height: 380px;
     background: #111010;
     color: rgba(255, 255, 255, 0.90);
 
