@@ -589,10 +589,18 @@ height: 150px;
 .third-feature{
 
 width: 100%;
-height: 200%;
+height: 170%;
     
  
 }
+
+.container-third{
+
+margin-bottom: 40px;
+padding-bottom: 20px;
+
+}
+
 
 .special-flower{
 
