@@ -597,7 +597,8 @@ height: 170%;
 .special-flower{
 
 flex-direction: column;
-    
+margin-top: 220px;
+height: 400px;
         
 }
 
